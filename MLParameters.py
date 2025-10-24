@@ -1,6 +1,6 @@
 """This is the code we used to train the AI to recognise rubbish. It utilises a preexisting convolutional neural netowrk that was further trained on a rubbish dataset. 
 These parameters were downloaded and used in the main.py file.
-If you want the parameters for yourself, simply use the following kaggle dataset, download and run our code. 
+If you want the parameters for yourself, simply use the following kaggle dataset; first download and then run our code. Thanks!
 https://www.kaggle.com/datasets/mostafaabla/garbage-classification"""
 
 import os
